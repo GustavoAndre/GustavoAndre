@@ -1,5 +1,5 @@
-### Hi 👋 I'm Gustavo André ⚡
-software development student
+### Hi 👋 I'm Gustavo André 
+software development student ⚡
 <!--
 **GustavoAndre/GustavoAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
