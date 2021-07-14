@@ -1,5 +1,8 @@
 ### Hi 👋 I'm Gustavo André 
 software development student ⚡
+
+![Copia de ST - TI VALERIO](https://user-images.githubusercontent.com/57471618/125658527-c47a7628-acbf-4ef0-9a32-a2cea0f55a89.png)
+
 <!--
 **GustavoAndre/GustavoAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
